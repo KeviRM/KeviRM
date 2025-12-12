@@ -117,10 +117,10 @@
 <br>
 
 ### 2. Feria Geek App
-> 📖 **Narrativa Inmersiva:** Aplicación móvil que mostraba un mapa de donde se ubicaban las estaciones, se muestran personajes en realidad aumentada que daban la explicacion de la estacion donde se encontraba el usuario.
+> 📖 **Narrativa Inmersiva:** Aplicación móvil a peticion de la Colmena, Centro de Tecnologías Creativas Grace Quintanilla, para la Feria Geek con el objetivo de enriquecer la experiencia de los visitante
 
 * **Reto:** Optimizar modelos 3D para móviles, animacion avanzada que concordara con los dialogos.
-* **Tech Stack:** `Unity` `Vuforia` `C#` 'Blender'
+* **Tech Stack:** `Unity` `Vuforia` `C#` `Blender`
 * **Enlaces:**  [▶️ Demo en Video](TU_LINK_DRIVE)
 
 <a href="TU_LINK_DRIVE" target="_blank">
@@ -130,11 +130,11 @@
 <br>
 
 ### 3. VirtualBody
-> 🎮 **Experiencia de Juego Vr:** Videojuego desarrollado desde cero, incluyendo la creación artística de assets.
+> 🎮 **Experiencia de Juego VR:** Videojuego en realidad virtual desarrollado desde cero, en la cual tiene como objetivo aprender sobre los organos del cuerpo humano.
 
-* **Destacado:** No solo programé las mecánicas, sino que realicé el **modelado 3D, rigging y animación avanzada** de los personajes y escenarios en Blender.
-* **Tech Stack:** `Unity 3D` `Blender` `C#`
-* **Enlaces:** [📂 Ver Código](TU_LINK_REPO) | [▶️ Ver Gameplay](TU_LINK_DRIVE)
+* **Destacado:** 2 modos de juegos: el primero el jugador es libre de interactuar con los organos y aprender con ChibiAI(asistente del juego) y el segundo Modo Vs Dr.IA donde compite por encontrar y armar el cuerpo antes de Dr.IA(Robot enemigo).
+* **Tech Stack:** `Unity 3D` `Blender` `C#` `XR toolkits`
+* **Enlaces:** [▶️ Ver Gameplay](TU_LINK_DRIVE)
 
 <a href="TU_LINK_DRIVE" target="_blank">
   <img src="URL_IMAGEN_JUEGO" alt="Game Demo" width="100%" />
