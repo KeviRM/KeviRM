@@ -134,10 +134,10 @@
 
 * **Destacado:** 2 modos de juegos: el primero el jugador es libre de interactuar con los organos y aprender con ChibiAI(asistente del juego) y el segundo Modo Vs Dr.IA donde compite por encontrar y armar el cuerpo antes de Dr.IA(Robot enemigo).
 * **Tech Stack:** `Unity 3D` `Blender` `C#` `XR toolkits`
-* **Enlaces:** [▶️ Ver Gameplay](TU_LINK_DRIVE)
+* **Enlaces:** [▶️ Ver Gameplay V.1](https://drive.google.com/file/d/1Xq8SUpXR2Pe0uq5MigJ-BpolKyHRxPfQ/view?usp=drive_link)
 
 <a href="TU_LINK_DRIVE" target="_blank">
-  <img src="URL_IMAGEN_JUEGO" alt="Game Demo" width="100%" />
+  <img src="" alt="Game Demo" width="100%" />
 </a>
 
 ---
