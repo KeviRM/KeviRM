@@ -16,7 +16,7 @@
 <hr>
 
 <h3>Curriculum Vitae</h3>
-<a href="https://drive.google.com/file/d/1bMxKXfN0tklSsojWxbwqzJ6wQktdirUg/view?usp=drive_link">Link a curriculum</a>
+<a href="https://drive.google.com/file/d/18ZncNjM2g721jVEQHwdMJ5NTI5o-sfp6/view?usp=sharing">Link a curriculum</a>
 <hr>
 
 
