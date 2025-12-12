@@ -121,7 +121,7 @@
 
 * **Reto:** Optimizar modelos 3D para móviles, animacion avanzada que concordara con los dialogos.
 * **Tech Stack:** `Unity` `Vuforia` `C#` `Blender`
-* **Enlaces:**  [▶️ Demo en Video](TU_LINK_DRIVE)
+* **Enlaces:**  [▶️ Apk](https://drive.google.com/file/d/16ptNlUZJ-sCoVsej073Mj3vXnAy7lviD/view)
 
 <a href="TU_LINK_DRIVE" target="_blank">
   <img src="URL_IMAGEN_AR" alt="AR Demo" width="100%" />
@@ -137,7 +137,7 @@
 * **Enlaces:** [▶️ Ver Gameplay V.1](https://drive.google.com/file/d/1Xq8SUpXR2Pe0uq5MigJ-BpolKyHRxPfQ/view?usp=drive_link)
 
 <a href="TU_LINK_DRIVE" target="_blank">
-  <img src="" alt="Game Demo" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/139921291/525976764-5eb5fbd0-9fc8-4352-9741-34e48b51089b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1NTc0NDEsIm5iZiI6MTc2NTU1NzE0MSwicGF0aCI6Ii8xMzk5MjEyOTEvNTI1OTc2NzY0LTVlYjVmYmQwLTlmYzgtNDM1Mi05NzQxLTM0ZTQ4YjUxMDg5Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxMlQxNjMyMjFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jODdiMjA2MWM1ZmQyNzA2MjY2ZjIyMDY0MTFlNzE1Mzk5NWRiMmNiZjJlN2QwMzUxZDYzZWRjNDQ3ZGY3YTA5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7G6102ylSWi3yQL4S0zFKE-ao15udlMDZOajrwozgbs" alt="Game Demo" width="100%" />
 </a>
 
 ---
