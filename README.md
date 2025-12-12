@@ -87,3 +87,62 @@
 <hr>
 
 
+
+## 🚀 Áreas de Especialización
+
+### 🕶️ Realidad Aumentada, Virtual y Desarrollo de Videojuegos
+* **Desarrollo XR (AR/VR):** Creación de experiencias inmersivas, incluyendo aplicaciones de Realidad Aumentada y entornos de Realidad Virtual.
+* **Desarrollo de Videojuegos:** Diseño y programación de mecánicas para juegos 2D y 3D (Unity/C#).
+* **Arte Técnico (Technical Art):** Pipeline completo de creación de assets 3D: desde el modelado hasta la animación avanzada e integración en motores de juego.
+
+### 💻 Desarrollo Web Moderno
+* **Aplicaciones Web Progresivas (PWA):** Desarrollo de soluciones complejas como sistemas de *delivery* (gestión de pedidos, carrito de compras y seguimiento en tiempo real).
+* **Desarrollo Frontend & UI:** Diseño de interfaces atractivas con enfoque en la experiencia de usuario (UX).
+
+---
+
+## 📂 Proyectos Destacados
+
+### 1. Gabunni
+> 🥗 **App Web Progresiva (PWA):** Plataforma completa para venta de chapatas y comida saludable con sistema de seguimiento de pedidos en tiempo real.
+
+* **Reto:** La personalizacion del producto estrella, gestionar estados de pedidos en tiempo real y contenedorizar para despliegue.
+* **Tech Stack:** `Vite + React` `Tailwind` `Django RF` `postgreSQL` `Git` `Docker` 
+* **Enlaces:**  [▶️ Demo en Video](TU_LINK_DRIVE)
+
+<a href="TU_LINK_DRIVE" target="_blank">
+  <img src="URL_IMAGEN_PWA" alt="PWA Demo" width="100%" />
+</a>
+
+<br>
+
+### 2. Feria Geek App
+> 📖 **Narrativa Inmersiva:** Aplicación móvil que mostraba un mapa de donde se ubicaban las estaciones, se muestran personajes en realidad aumentada que daban la explicacion de la estacion donde se encontraba el usuario.
+
+* **Reto:** Optimizar modelos 3D para móviles, animacion avanzada que concordara con los dialogos.
+* **Tech Stack:** `Unity` `Vuforia` `C#` 'Blender'
+* **Enlaces:**  [▶️ Demo en Video](TU_LINK_DRIVE)
+
+<a href="TU_LINK_DRIVE" target="_blank">
+  <img src="URL_IMAGEN_AR" alt="AR Demo" width="100%" />
+</a>
+
+<br>
+
+### 3. VirtualBody
+> 🎮 **Experiencia de Juego Vr:** Videojuego desarrollado desde cero, incluyendo la creación artística de assets.
+
+* **Destacado:** No solo programé las mecánicas, sino que realicé el **modelado 3D, rigging y animación avanzada** de los personajes y escenarios en Blender.
+* **Tech Stack:** `Unity 3D` `Blender` `C#`
+* **Enlaces:** [📂 Ver Código](TU_LINK_REPO) | [▶️ Ver Gameplay](TU_LINK_DRIVE)
+
+<a href="TU_LINK_DRIVE" target="_blank">
+  <img src="URL_IMAGEN_JUEGO" alt="Game Demo" width="100%" />
+</a>
+
+---
+
+<p align="center">
+  <i>¿Quieres ver más? Revisa <a href="URL_A_TU_PESTAÑA_REPOSITORIOS">todos mis repositorios</a>.</i>
+</p>
+
