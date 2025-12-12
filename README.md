@@ -108,10 +108,10 @@
 
 * **Reto:** La personalizacion del producto estrella, gestionar estados de pedidos en tiempo real y contenedorizar para despliegue.
 * **Tech Stack:** `Vite + React` `Tailwind` `Django RF` `postgreSQL` `Git` `Docker` 
-* **Enlaces:**  [▶️ Demo en Video](TU_LINK_DRIVE)
+* **Enlaces:**  [▶️ Demo en Video](https://drive.google.com/file/d/1ok86NH8HPvNgKAScbr31ZhWuqMaqhoIy/view?usp=sharing)
 
 <a href="TU_LINK_DRIVE" target="_blank">
-  <img src="URL_IMAGEN_PWA" alt="PWA Demo" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/139921291/525988267-6e1ffdc3-dffd-4680-a18d-805af0d1fe1f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1NTkzMzYsIm5iZiI6MTc2NTU1OTAzNiwicGF0aCI6Ii8xMzk5MjEyOTEvNTI1OTg4MjY3LTZlMWZmZGMzLWRmZmQtNDY4MC1hMThkLTgwNWFmMGQxZmUxZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxMlQxNzAzNTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMTFmNmI5ZGUxNDA3ZWNkZDc4ZTk0ZGY2NmQ0MWViNmNhODhiYzFkYmE3MDQ0OTI0YTI3NWM4ZmY1ZDAxYThiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AFhVk1GYKLAJKxEcTlbXcVnesOJeH1jkY1hoAbDVU7w" alt="PWA Demo" width="100%" />
 </a>
 
 <br>
@@ -124,7 +124,7 @@
 * **Enlaces:**  [▶️ Apk](https://drive.google.com/file/d/16ptNlUZJ-sCoVsej073Mj3vXnAy7lviD/view)
 
 <a href="TU_LINK_DRIVE" target="_blank">
-  <img src="URL_IMAGEN_AR" alt="AR Demo" width="100%" />
+  <img src="https://private-user-images.githubusercontent.com/139921291/525978363-f9747444-c6c1-49d5-9a1a-077f1e25487f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1NTkzODUsIm5iZiI6MTc2NTU1OTA4NSwicGF0aCI6Ii8xMzk5MjEyOTEvNTI1OTc4MzYzLWY5NzQ3NDQ0LWM2YzEtNDlkNS05YTFhLTA3N2YxZTI1NDg3Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxMlQxNzA0NDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMjJhNDc0ZThmY2VjMTBlYzBkM2ZlNDQ0MjJiOWE5MjkyZjg4YjY3NjM5NjAxMWRjNzhhNTIwOGNlNWUyNzFkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.O-3Y3dgAIJJe_ulvUDb3OlGbyts1zr-YRpKABscuj9Y" alt="AR Demo" width="100%" />
 </a>
 
 <br>
