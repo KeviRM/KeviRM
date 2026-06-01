@@ -1,12 +1,18 @@
 <h1 align="center">Hola, Yo soy Kevin Ramirez Mendez</h1>
-<h3 align="center">Un joven entusiasta por la tecnologia y el desarrollo</h3>
+### Desarrollador de Software | Web Full Stack & Entornos Virtuales (XR)
+
+Soy un ingeniero apasionado por la creación de soluciones tecnológicas, con experiencia abarcando desde arquitecturas web hasta el desarrollo de experiencias interactivas e inmersivas. 
+
+Me gusta abordar los retos técnicos con un enfoque lógico y estructurado, ya sea desarrollando Aplicaciones Web Progresivas (PWA) y ecosistemas ecommerce, o programando mecánicas y simulaciones físicas para videojuegos y aplicaciones de Realidad Virtual y Aumentada (AR/VR).
+
+🚀 **Mi enfoque:** Escribir código limpio, resolver problemas complejos y fusionar la lógica de backend con interfaces (y entornos) centrados en el usuario.
 <hr>
 
 <h3 align="left">Contactame:</h3>
-<h5>Correo electronico:</h5>
-<p>kevito321.krm@gmail.com</p>
-<h5>Numero de celular:</h5>
-<p>(+52) 241 419 48 49</p>
+### 📫 Contáctame:
+* **Correo:** kevito321.krm@gmail.com
+* **Teléfono:** (+52) 241 419 48 49
+* **Currículum:** [📄 <a href="https://drive.google.com/file/d/18ZncNjM2g721jVEQHwdMJ5NTI5o-sfp6/view?usp=sharing">Ver mi CV especializado en Web</a>]
 <h5>Redes Sociales</h5>
 <p align="left">
 <a href="https://fb.com/kevin ramirez mendez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kevin ramirez mendez" height="30" width="40" /></a>
@@ -15,9 +21,7 @@
 
 <hr>
 
-<h3>Curriculum Vitae</h3>
-<a href="https://drive.google.com/file/d/18ZncNjM2g721jVEQHwdMJ5NTI5o-sfp6/view?usp=sharing">Link a curriculum</a>
-<hr>
+
 
 
 <h2 align="center">🛠️ Herramientas y Lenguajes</h2>
