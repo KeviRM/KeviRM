@@ -92,7 +92,7 @@ Me gusta abordar los retos técnicos con un enfoque lógico y estructurado, ya s
 * **Destacado:** Diseño y creación desde cero de una arquitectura robusta para la gestión de ventas empresariales. Implementación de un motor de reglas de negocio para aplicar precios escalonados basados en el volumen de piezas compradas.
 * **Reto:** Preparación de la lógica de inventarios y conexión exitosa del flujo de pago con pasarelas externas.
 * **Tech Stack:** `PHP` `Laravel` `React.js` `MySQL` `Mercado Pago API`
-* **Enlaces:** [▶️ <a href="https://drive.google.com/drive/folders/1sm5zrxI0hPViECowNYU4Yq2DoxQtJ4JO?usp=drive_link">Ver Demo en Video</a>]
+* **Enlaces:** [▶️ <a href="https://drive.google.com/drive/folders/1Gefthyl1DQceG7B5LwMZFQGjCu24xkKc?usp=drive_link">Ver Demo en Video</a>]
 
 ![Demo de E-commerce B2B](ruta-a-tu-imagen.gif)
 
