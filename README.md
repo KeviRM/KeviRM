@@ -12,7 +12,7 @@ Me gusta abordar los retos técnicos con un enfoque lógico y estructurado, ya s
 
 * **Correo:** kevito321.krm@gmail.com
 * **Teléfono:** (+52) 241 419 48 49
-* **Currículum:** [📄 <a href="https://drive.google.com/file/d/18ZncNjM2g721jVEQHwdMJ5NTI5o-sfp6/view?usp=sharing">Ver mi CV especializado en Web</a>]
+* **Currículum:** [📄 <a href="https://drive.google.com/file/d/1_HMFxXOfwFJFfXcmPI6nAbmTGDZ1aF9W/view?usp=drive_link">Ver mi CV especializado en Web</a>]
 <h5>Redes Sociales</h5>
 <p align="left">
 <a href="https://fb.com/kevin ramirez mendez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kevin ramirez mendez" height="30" width="40" /></a>
