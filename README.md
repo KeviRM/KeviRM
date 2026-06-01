@@ -9,7 +9,7 @@ Me gusta abordar los retos técnicos con un enfoque lógico y estructurado, ya s
 <hr>
 
 <h3 align="left">Contactame:</h3>
-### 📫 Contáctame:
+
 * **Correo:** kevito321.krm@gmail.com
 * **Teléfono:** (+52) 241 419 48 49
 * **Currículum:** [📄 <a href="https://drive.google.com/file/d/18ZncNjM2g721jVEQHwdMJ5NTI5o-sfp6/view?usp=sharing">Ver mi CV especializado en Web</a>]
@@ -24,69 +24,34 @@ Me gusta abordar los retos técnicos con un enfoque lógico y estructurado, ya s
 
 
 
-<h2 align="center">🛠️ Herramientas y Lenguajes</h2>
+### 🛠️ Herramientas y Lenguajes
 
-<table border="0">
-  <tr>
-    <td valign="top" width="50%">
-      <h3 align="center">🎨 Frontend</h3>
-      <div align="center">
-        <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-      </div>
-      <br />
-      <h3 align="center">🖌️ Diseño y Desarrollo de videojuegos</h3>
-      <div align="center">
-        <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
-        <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-      </div>
-    </td>
-    <td valign="top" width="50%">
-      <h3 align="center">⚙️ Backend</h3>
-      <div align="center">
-        <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-      </div>
-      <br />
-      <h3 align="center">🗄️ DB & 🚀 DevOps</h3>
-      <div align="center">
-        <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
-      </div>
-    </td>
-  </tr>
-</table>
+**Frontend & UI**  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+**Backend**  
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+**Base de Datos & DevOps**  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+**Desarrollo de Videojuegos y XR**  
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 <hr>
 
@@ -107,20 +72,33 @@ Me gusta abordar los retos técnicos con un enfoque lógico y estructurado, ya s
 
 ## 📂 Proyectos Destacados
 
-### 1. Gabunni
-> 🥗 **App Web Progresiva (PWA):** Plataforma completa para venta de chapatas y comida saludable con sistema de seguimiento de pedidos en tiempo real.
+### 1. Gabunni | Sistema Integral de Gestión (PWA, POS y Kiosco Digital)
 
-* **Reto:** La personalizacion del producto estrella, gestionar estados de pedidos en tiempo real y contenedorizar para despliegue.
-* **Tech Stack:** `Vite + React` `Tailwind` `Django RF` `postgreSQL` `Git` `Docker` 
-* **Enlaces:**  [▶️ Demo en Video](https://drive.google.com/file/d/1ok86NH8HPvNgKAScbr31ZhWuqMaqhoIy/view?usp=sharing)
+🥬 **App Web Progresiva (PWA):** Plataforma completa para venta de alimentos con arquitectura de microservicios, optimizada para la gestión de pedidos en tiempo real.
 
-<a href="http://gabunny.agenciakeops.com/" target="_blank">
-  <img src="https://private-user-images.githubusercontent.com/139921291/525988267-6e1ffdc3-dffd-4680-a18d-805af0d1fe1f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU1NTkzMzYsIm5iZiI6MTc2NTU1OTAzNiwicGF0aCI6Ii8xMzk5MjEyOTEvNTI1OTg4MjY3LTZlMWZmZGMzLWRmZmQtNDY4MC1hMThkLTgwNWFmMGQxZmUxZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxMlQxNzAzNTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMTFmNmI5ZGUxNDA3ZWNkZDc4ZTk0ZGY2NmQ0MWViNmNhODhiYzFkYmE3MDQ0OTI0YTI3NWM4ZmY1ZDAxYThiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.AFhVk1GYKLAJKxEcTlbXcVnesOJeH1jkY1hoAbDVU7w" alt="Link a aplicacion" width="100%" />
-</a>
+* **Destacado:** Desarrollo del ciclo de vida completo. Expansión de la PWA inicial integrando un módulo de Punto de Venta (POS) y un Kiosco Digital interactivo optimizado para tablets. Implementación de algoritmos de upselling dinámico y pagos seguros con código QR y tarjeta.
+* **Reto:** Sincronización en tiempo real de estados de pedidos entre el cliente, el Kitchen Display System (KDS) y el panel administrativo, además de contenerizar la aplicación para su despliegue.
+* **Tech Stack:** `Vite + React` `Django Rest` `PostgreSQL` `Redis` `WebSockets` `Tailwind` `Docker` `Git` `Mercado Pago API`
+* **Enlaces:** [▶️ <a href="https://drive.google.com/drive/folders/1sm5zrxI0hPViECowNYU4Yq2DoxQtJ4JO?usp=drive_link">Ver Demo en Video</a>]
+
+![Demo de Gabunni](ruta-a-tu-imagen.gif)
+<br>
+
+
+### 2. Plataforma B2B Mayorista
+
+📦 **E-commerce:** Plataforma web orientada a ventas al por mayor con lógica de precios dinámicos.
+
+* **Destacado:** Diseño y creación desde cero de una arquitectura robusta para la gestión de ventas empresariales. Implementación de un motor de reglas de negocio para aplicar precios escalonados basados en el volumen de piezas compradas.
+* **Reto:** Preparación de la lógica de inventarios y conexión exitosa del flujo de pago con pasarelas externas.
+* **Tech Stack:** `PHP` `Laravel` `React.js` `MySQL` `Mercado Pago API`
+* **Enlaces:** [▶️ <a href="https://drive.google.com/drive/folders/1sm5zrxI0hPViECowNYU4Yq2DoxQtJ4JO?usp=drive_link">Ver Demo en Video</a>]
+
+![Demo de E-commerce B2B](ruta-a-tu-imagen.gif)
 
 <br>
 
-### 2. Feria Geek App
+### 3. Feria Geek App
 > 📖 **Narrativa Inmersiva:** Aplicación móvil a peticion de la Colmena, Centro de Tecnologías Creativas Grace Quintanilla, para la Feria Geek con el objetivo de enriquecer la experiencia de los visitante
 
 * **Reto:** Optimizar modelos 3D para móviles, animacion avanzada que concordara con los dialogos.
@@ -133,7 +111,12 @@ Me gusta abordar los retos técnicos con un enfoque lógico y estructurado, ya s
 
 <br>
 
-### 3. VirtualBody
+
+
+
+
+
+### 4. VirtualBody
 > 🎮 **Experiencia de Juego VR:** Videojuego en realidad virtual desarrollado desde cero, en la cual tiene como objetivo aprender sobre los organos del cuerpo humano.
 
 * **Destacado:** 2 modos de juegos: el primero el jugador es libre de interactuar con los organos y aprender con ChibiAI(asistente del juego) y el segundo Modo Vs Dr.IA donde compite por encontrar y armar el cuerpo antes de Dr.IA(Robot enemigo).
