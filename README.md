@@ -80,6 +80,7 @@ Me gusta abordar los retos técnicos con un enfoque lógico y estructurado, ya s
 * **Reto:** Sincronización en tiempo real de estados de pedidos entre el cliente, el Kitchen Display System (KDS) y el panel administrativo, además de contenerizar la aplicación para su despliegue.
 * **Tech Stack:** `Vite + React` `Django Rest` `PostgreSQL` `Redis` `WebSockets` `Tailwind` `Docker` `Git` `Mercado Pago API`
 * **Enlaces:** [▶️ <a href="https://drive.google.com/drive/folders/1sm5zrxI0hPViECowNYU4Yq2DoxQtJ4JO?usp=drive_link">Ver Demo en Video</a>]
+[▶️ <a href="https://gabunny.agenciakeops.com/menu">link pwa</a>]
 
 ![Demo de Gabunni](assets/gabunniGIF.gif)
 <br>
