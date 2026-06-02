@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Yo soy Kevin Ramirez Mendez</h1>
-### Desarrollador de Software | Web Full Stack & Entornos Virtuales (XR)
+Desarrollador de Software | Web Full Stack & Entornos Virtuales (XR)
 
 Soy un ingeniero apasionado por la creación de soluciones tecnológicas, con experiencia abarcando desde arquitecturas web hasta el desarrollo de experiencias interactivas e inmersivas. 
 
